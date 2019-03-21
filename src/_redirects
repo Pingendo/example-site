@@ -1,0 +1,32 @@
+
+/pingendo/*  /pingendo/index.html 200
+
+#Redirect repo dal vecchio al nuovo Github - NON CREARE DIRECTORY SECONDARIE NEL SITO DI PINGENDO ALTRIMENTI FINISCONO SU GITHUB!!
+
+https://pingendo.com/:username/:reponame/*								https://p4com.herokuapp.com/:username/:reponame/:splat
+http://pingendo.com/:username/:reponame/*								https://p4com.herokuapp.com/:username/:reponame/:splat
+https://agitated-shockley-93b08c.netlify.com/:username/:reponame/*		https://p4com.herokuapp.com/:username/:reponame/:splat
+
+/me 																	https://p4com.herokuapp.com/me
+
+/v4-beta/*																/index.html
+/desktop.html															/index.html
+/faq.html																/index.html
+/terms_privacy.html														/index.html
+/index.hml																/index.html
+
+/new																	https://v40.pingendo.com/new
+
+/buy 							https://sites.fastspring.com/pingendo/product/pingendo 302
+
+/learn-builder.html														/learn.html
+/learn-collaborate.html													/learn.html
+/get-started.html														/learn.html
+/desktop-builder.html													/learn.html
+/gettingstarted/														/learn.html
+/learn.com																/learn.html
+
+/teamwork.html															/index.html
+/teams.html																/index.html
+/github.html															/index.html
+/features.html															/index.html
