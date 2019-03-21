@@ -1,0 +1,3 @@
+index_path: /src/index.html
+netlify_site_name : ptestsite
+production_branch : master
